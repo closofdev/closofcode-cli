@@ -8,9 +8,16 @@ ClosofCode CLI adalah antarmuka terminal (TUI) untuk [opencode](https://github.c
 
 <!-- Ganti placeholder di bawah dengan screenshot/GIF asli milikmu -->
 
-![ClosofCode CLI](./docs/preview.png)
-
-Cara mengisi aset preview ada di [docs/README.md](./docs/README.md).
+> 📷 **Screenshot/GIF preview belum ditambahkan.**
+>
+> Rekam sendiri TUI-nya lalu simpan sebagai `docs/preview.png` (atau `.gif`),
+> hapus baris ini, dan ganti dengan:
+>
+> ```markdown
+> ![ClosofCode CLI](./docs/preview.png)
+> ```
+>
+> Langkah lengkapnya ada di [docs/README.md](./docs/README.md).
 
 ## Apa yang berbeda dari upstream
 
